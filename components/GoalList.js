@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  Text,
-  View,
-  StyleSheet,
-  TouchableOpacity,
-  Touchable,
-} from "react-native";
+import { Text, View, StyleSheet, TouchableOpacity } from "react-native";
 
 const GoalList = (props) => {
   return (
